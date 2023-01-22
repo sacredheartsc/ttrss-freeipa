@@ -3,7 +3,7 @@
  *
  * Tiny Tiny RSS plugin for FreeIPA authentication
  *
- * @author stonewall
+ * @author stonewall@sacredheartsc.com
  * @license https://opensource.org/licenses/MIT
  * @version 0.01
  *
