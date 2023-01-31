@@ -1,11 +1,11 @@
 # ttrss-auth-freeipa
 
-FreeIPA authentication plugin for [Tiny Tiny RSS](https://tt-rss.org/)
+[FreeIPA](https://www.freeipa.org) authentication plugin for [Tiny Tiny RSS](https://tt-rss.org/)
 
 ## What is this?
 
 This plugin authenticates [Tiny Tiny RSS](https://tt-rss.org/) users with the
-local FreeIPA domain.
+local [FreeIPA](https://www.freeipa.org) domain.
 
 It provides both "Single Sign-On" capability through integration with a
 GSSAPI/Kerberos-enabled webserver, as well as standard authentication using
